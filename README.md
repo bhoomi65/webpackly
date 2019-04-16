@@ -1,2 +1,2 @@
 # webpackly
-It will basic setup for webpack.
+It has basic setup for webpack.
